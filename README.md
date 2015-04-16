@@ -1,5 +1,11 @@
 # vc
 
+## Lista VC
+
+- (@billmaris)[https://twitter.com/billmaris]
+
+
+
 ## Preguntas a un VC
 
 - ¿cual es el proceso de evaluacion?
