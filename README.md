@@ -2,7 +2,7 @@
 
 ## Lista VC
 
-- (@billmaris)[https://twitter.com/billmaris]
+- [@billmaris](https://twitter.com/billmaris)
 
 
 
